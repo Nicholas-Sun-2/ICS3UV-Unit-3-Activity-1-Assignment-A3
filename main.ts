@@ -6,19 +6,19 @@
  */
 
 // Declaring variables
-var num1: number = 0 * 9;
-var num2: number = 1 * 9;
-var num3: number = 2 * 9;
-var num4: number = 3 * 9;
-var num5: number = 4 * 9;
-var num6: number = 5 * 9;
-var num7: number = 6 * 9;
-var num8: number = 7 * 9;
-var num9: number = 8 * 9;
-var num10: number = 9 * 9;
-var num11: number = 10 * 9;
-var num12: number = 11 * 9;
-var num13: number = 12 * 9;
+let num1: number = 0 * 9;
+let num2: number = 1 * 9;
+let num3: number = 2 * 9;
+let num4: number = 3 * 9;
+let num5: number = 4 * 9;
+let num6: number = 5 * 9;
+let num7: number = 6 * 9;
+let num8: number = 7 * 9;
+let num9: number = 8 * 9;
+let num10: number = 9 * 9;
+let num11: number = 10 * 9;
+let num12: number = 11 * 9;
+let num13: number = 12 * 9;
 
 // Printing
 console.log("0 * 9 = " + String(num1));
